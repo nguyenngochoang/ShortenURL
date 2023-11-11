@@ -2,7 +2,7 @@ module Api
   module V1
     class ShortenUrlService < ::ApplicationService
       def self.call(original_url:)
-        new(original_url:).shorten
+        new(original_url:).shorten if original_url.present?
       end
 
       def initialize(original_url:)
@@ -11,6 +11,9 @@ module Api
       end
 
       def shorten
+        url = Url.find_by(original_url:)
+        return url if url.present?
+
         Url.create(
           original_url:,
           shortened_url:,

@@ -1,8 +1,10 @@
 class UrlSerializer < ActiveModel::Serializer
-  attributes :id, :formated_shortened_url, :refs
+  include Rails.application.routes.url_helpers
 
-  def formated_shortened_url
-    @instance_options[:host] + object.shortened_url
+  attributes :id, :shortened_url, :refs
+
+  def shortened_url
+    shorten_url_redirect_url(shortened_url: object.shortened_url)
   end
 
   def refs
