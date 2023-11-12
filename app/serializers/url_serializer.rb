@@ -1,7 +1,7 @@
 class UrlSerializer < ActiveModel::Serializer
   include Rails.application.routes.url_helpers
 
-  attributes :id, :shortened_url, :refs, :api_status
+  attributes :id, :shortened_url, :refs, :code
 
   def shortened_url
     shorten_url_redirect_url(shortened_url: object.shortened_url)
