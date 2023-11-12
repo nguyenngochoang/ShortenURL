@@ -4,23 +4,32 @@ module Api
       before_action :authenticate_user!
 
       def create
-        @url = ::Api::V1::ShortenUrlService.call(original_url: params[:original_url])
+        @url = ::Api::V1::ShortenUrlService.call(original_url: url_params[:original_url])
 
         if @url.persisted?
-          render json: @url, api_link: request.url, code: 200
+          render json: @url, api_link: request.url, timezone: @user.timezone, code: 200
         else
           render json: {
             code: 422,
             errors: @url.errors.full_messages
           }, status: :unprocessable_entity
         end
+      rescue => e
+        render json: {
+          code: 500,
+          errors: e.message
+        }, status: :unprocessable_entity
       end
 
       private
 
       def authenticate_user!
-        user = User.find_by(email: request.headers["X-User-Email"], authentication_token: request.headers["X-User-Token"])
-        render_unauthorized_response if user.nil?
+        @user = User.find_by(email: request.headers["X-User-Email"], authentication_token: request.headers["X-User-Token"])
+        render_unauthorized_response if @user.nil?
+      end
+
+      def url_params
+        params.require(:url).permit(:original_url)
       end
     end
   end

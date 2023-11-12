@@ -43,7 +43,7 @@ RSpec.describe Api::V1::UrlsController, type: :request do
           expect(response).to have_http_status(:unprocessable_entity)
           body = JSON.parse(response.body)
 
-          expect(body["errors"]["original_url"]).to contain_exactly("is invalid")
+          expect(body["errors"]).to contain_exactly("Original url is invalid")
         end
       end
     end

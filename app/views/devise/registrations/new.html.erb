@@ -1,5 +1,12 @@
+<script>
+ window.onload = function() {
+    document.getElementById("user-timezone").value = Intl.DateTimeFormat().resolvedOptions().timeZone;
+  }
+</script>
+
 <h2>Sign up</h2>
 <%= form_for(resource, as: resource_name, url: registration_path(resource_name)) do |f| %>
+  <%= f.hidden_field :timezone, value: '', id: "user-timezone" %>
   <%= f.email_field :email, placeholder: "Your email address:", autofocus: true %>
   <%= f.submit 'Sign up' %>
 <% end %>

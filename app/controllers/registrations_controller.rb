@@ -9,6 +9,8 @@ class RegistrationsController < Devise::RegistrationsController
     resource.password = Devise.friendly_token
     resource.password_confirmation = resource.password
     resource.authentication_token = SecureRandom.hex(8)
+    resource.timezone = sign_up_params[:timezone]
+
     if resource.save
       UserMailer.registration_confirmation(resource).deliver_now
       @notice = "Success! Please check your email inbox"
@@ -22,6 +24,6 @@ class RegistrationsController < Devise::RegistrationsController
   private
 
   def sign_up_params
-    params.require(:user).permit(:email)
+    params.require(:user).permit(:email, :timezone)
   end
 end
