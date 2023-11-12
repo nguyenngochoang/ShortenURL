@@ -40,7 +40,7 @@ RSpec.describe Api::V1::UrlsController, type: :request do
         before { post api_v1_urls_path, params: invalid_params.to_json, headers: headers }
 
         it 'creates a shortened URL' do
-          expect(response).to have_http_status(:success)
+          expect(response).to have_http_status(:unprocessable_entity)
           body = JSON.parse(response.body)
 
           expect(body["errors"]["original_url"]).to contain_exactly("is invalid")

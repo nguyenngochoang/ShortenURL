@@ -8,7 +8,7 @@ module Api
         if @url.persisted?
           render json: @url, api_link: request.url
         else
-          render json: { errors: @url.errors.messages }
+          render json: { errors: @url.errors.messages }, status: :unprocessable_entity
         end
       end
 
