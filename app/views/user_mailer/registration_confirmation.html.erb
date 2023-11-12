@@ -1,0 +1,23 @@
+<p>  Welcome to Shortener Service. Your account has successfully been created. </p>
+<p> Please using these credentials to create your own shortened URL: </p>
+<ul>
+  <li>Username: <%= @user.email %></li>
+  <li>API token: <%= @user.authentication_token %></li>
+</ul>
+
+<p>You can either using curl or Api agents like Postman / Thunder client</p>
+<ul>
+  <li>Endpoint: https://shortener-service-api.onrender.com/api/v1/urls</li>
+  <li>Header: X-USER-EMAIL, X-USER-TOKEN</li>
+  <li>Body Params: original_url</li>
+</ul>
+
+<h4>
+  Example of using curl:
+</h4>
+<pre>
+  curl -X POST "http://localhost:3003/api/v1/urls" \
+  -H "X-USER-EMAIL: hoang123@test.com" \
+  -H "X-USER-TOKEN: c0bef7d29431c9e5" \
+  -d 'original_url=https://www.mongodb.com/docs/mongoid/current/reference/queries/#condition-syntax'
+</pre>

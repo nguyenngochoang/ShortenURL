@@ -5,10 +5,14 @@ module Api
 
       def create
         @url = ::Api::V1::ShortenUrlService.call(original_url: params[:original_url])
+
         if @url.persisted?
-          render json: @url, api_link: request.url
+          render json: @url, api_link: request.url, code: 200
         else
-          render json: { errors: @url.errors.messages }, status: :unprocessable_entity
+          render json: {
+            code: 422,
+            errors: @url.errors.full_messages
+          }, status: :unprocessable_entity
         end
       end
 
