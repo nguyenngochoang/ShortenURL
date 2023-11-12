@@ -50,6 +50,16 @@ curl -X POST "https://shortener-service-api.onrender.com/api/v1/urls" \
 -d 'original=https://www.mongodb.com/docs/mongoid/current/reference/queries/#condition-syntax'
 ```
 
+2. Expected output:
+  - Success:
+    ```
+    {"id":"12e7a835-13b9-434d-ab46-c0ef7a02329a","shortened_url":"https://shortener-service-api.onrender.com/urls/3e3f1dc","refs":{"self":"https://shortener-service-api.onrender.com/api/v1/urls"},"code":200,"expires_at":"Monday, November 13, 2023 03:08 AM"}%
+    ```
+  - Failed
+    ```
+      {"code":422,"errors":["Original url can't be blank","Original url is invalid","Shortened url can't be blank"]}%
+    ```
+
 2. **Access Short URLs:**
   - Paste the shortened url, which was returned from the api to access the original page.
   **_PLEASE NOTE THAT EACH SHORTENED URL WILL BE EXPIRED AND CLEANED UP AFTER 4 HOURS_**
