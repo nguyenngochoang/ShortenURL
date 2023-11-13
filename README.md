@@ -9,7 +9,7 @@ ShortenURL is a simple URL shortening service built using Ruby on Rails.
 - **Expiration:** Set expiration dates for shortened URLs.
 
 ## Installation
-
+### Locally
 1. **Clone the repository:**
   ```bash
   git clone https://github.com/nguyenngochoang/ShortenURL.git
@@ -34,22 +34,28 @@ ShortenURL is a simple URL shortening service built using Ruby on Rails.
   ```bash
   rails server -p 3003
   ```
+### Live product
+Please move straight to the Usage session
 
 ## Usage
 
 1. **Shorten a URL:**
-  - First, you will need credentials to call the api, please use one of these 2 ways:
-    + Create an account using your email, [please go to this site](https://shortener-service-api.onrender.com/). After you submit, please check your email inbox for credentials / instructions (please also check spam folder as well).
-    + In case you failed to create the account (or too lazy for that), use the default credentials: test@example.com / token_1
-  - To shorten a URL, go to the provided endpoint and input the URL. You can either use curl or Api client
 
-```
-curl -X POST "https://shortener-service-api.onrender.com/api/v1/urls" \
--H "X-USER-EMAIL: <your_email>" \
--H "X-USER-TOKEN: <your_api_token>" \
--d 'original=https://www.mongodb.com/docs/mongoid/current/reference/queries/#condition-syntax'
-```
+   1.1 Live product
+    - First, you will need credentials to call the api, please use one of these 2 ways:
+      + Create an account using your email, [please go to this site](https://shortener-service-api.onrender.com/). After you submit, please check your email inbox for credentials / instructions (please also check spam folder as well).
+      + In case you failed to create the account (or too lazy for that), use the default credentials: test@example.com / token_1
+    - To shorten a URL, go to the provided endpoint and input the URL. You can either use curl or Api client
 
+    ```
+    curl -X POST "https://shortener-service-api.onrender.com/api/v1/urls" \
+    -H "X-USER-EMAIL: <your_email>" \
+    -H "X-USER-TOKEN: <your_api_token>" \
+    -d 'original=https://www.mongodb.com/docs/mongoid/current/reference/queries/#condition-syntax'
+    ```
+    1.2 Local host
+      - First please start the server `rails s -p 3003`
+      - Replace the `https://shortener-service-api.onrender.com/` host with your localhost and create a user by access the root page. Please not that you will need a mail client like mailcatcher to view the mail or you may check the rails log for the credentials
 2. Expected output:
   - Success:
     ```
@@ -60,7 +66,7 @@ curl -X POST "https://shortener-service-api.onrender.com/api/v1/urls" \
       {"code":422,"errors":["Original url can't be blank","Original url is invalid","Shortened url can't be blank"]}%
     ```
 
-2. **Access Short URLs:**
+3. **Access Short URLs:**
   - Paste the shortened url, which was returned from the api to access the original page.
   **_PLEASE NOTE THAT EACH SHORTENED URL WILL BE EXPIRED AND CLEANED UP AFTER 4 HOURS_**
 
