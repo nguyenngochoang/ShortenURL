@@ -7,23 +7,24 @@ module Api
 
       def initialize(original_url:)
         @original_url = original_url
-        @shortened_url = Digest::SHA256.hexdigest(original_url)[0..6] if original_url
       end
 
       def shorten
         url = Url.find_by(original_url:)
-        return url if url.present?
+        return {url: url} if url.present?
 
-        Url.create(
-          original_url:,
-          shortened_url:,
-          expires_at: Time.now + 4.hours
-        )
+        form = Forms::ShortenUrls::Create.new(original_url:)
+        if form.valid?
+          form.url.save
+          { url: form.url.reload, errors: [] }
+        else
+          { errors: form.errors.full_messages }
+        end
       end
 
       private
 
-      attr_reader :original_url, :shortened_url
+      attr_reader :original_url
     end
   end
 end
