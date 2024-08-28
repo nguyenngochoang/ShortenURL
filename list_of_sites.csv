@@ -1,0 +1,375 @@
+Name,NameBrand,Market,Language,Entity
+flightnetwork_ar_es,Flight Network,Argentina,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_ar,Gotogate,Argentina,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_ar,Mytrip,Argentina,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+businessclass_au,BusinessClass.com,Australia,en,5059784c-6ba3-441c-bf93-baec0eac5680
+flightnetwork_au_en,Flight Network,Australia,en,5059784c-6ba3-441c-bf93-baec0eac5680
+flyfar_au_en,Flyfar,Australia,en,5059784c-6ba3-441c-bf93-baec0eac5680
+gotogate_au,Gotogate,Australia,en,5059784c-6ba3-441c-bf93-baec0eac5680
+mytrip_au,Mytrip,Australia,en,5059784c-6ba3-441c-bf93-baec0eac5680
+supersaver_au,Supersavertravel,Australia,en,5059784c-6ba3-441c-bf93-baec0eac5680
+flightnetwork_at,Flight Network,Austria,de,b7716aaa-c795-4c8d-9f5d-0c772989febc
+gotogate_at,Gotogate,Austria,de,b7716aaa-c795-4c8d-9f5d-0c772989febc
+mytrip_at,Mytrip,Austria,de,b7716aaa-c795-4c8d-9f5d-0c772989febc
+supersaver_at,Supersaver,Austria,de,b7716aaa-c795-4c8d-9f5d-0c772989febc
+flightnetwork_bh,Flight Network,Bahrain,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_bh_en,Flight Network,Bahrain,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_bh_ar,Gotogate,Bahrain,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_bh_en,Gotogate,Bahrain,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_bh,Mytrip,Bahrain,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_bh_en,Mytrip,Bahrain,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+trip_bh,Trip,Bahrain,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+trip_bh_en,Trip,Bahrain,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_be,Flight Network,Belgium,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+gotogate_be,Gotogate,Belgium,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+mytrip_be,Mytrip,Belgium,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+radissonhotels_be,Radisson Hotels,Belgium,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+flightnetwork_bo,Flight Network,Bolivia,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_bo,Gotogate,Bolivia,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_bo,Mytrip,Bolivia,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_br_pt,Flight Network,Brazil,pt,f7db00bb-c26f-4c2b-a9b6-acbd34c14669
+gotogate_br,Gotogate,Brazil,pt,f7db00bb-c26f-4c2b-a9b6-acbd34c14669
+mytrip_br,Mytrip,Brazil,pt,f7db00bb-c26f-4c2b-a9b6-acbd34c14669
+flightnetwork_bg,Flight Network,Bulgaria,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+gotogate_bg,Gotogate,Bulgaria,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+mytrip_bg,Mytrip,Bulgaria,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+trip_bg,Trip,Bulgaria,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+businessclass_ca,BusinessClass.com,Canada,en,3417ea61-1d4b-4ec6-aa79-ca5ee9baecee
+flightnetwork_ca_en,Flight Network,Canada,en,3417ea61-1d4b-4ec6-aa79-ca5ee9baecee
+flightnetwork_ca_fr,Flight Network,Canada,fr,3417ea61-1d4b-4ec6-aa79-ca5ee9baecee
+flyfar_ca_en,Flyfar,Canada,en,3417ea61-1d4b-4ec6-aa79-ca5ee9baecee
+flyfar_ca_fr,Flyfar,Canada,fr,3417ea61-1d4b-4ec6-aa79-ca5ee9baecee
+gotogate_ca,Gotogate,Canada,en,3417ea61-1d4b-4ec6-aa79-ca5ee9baecee
+mytrip_ca,Mytrip,Canada,en,3417ea61-1d4b-4ec6-aa79-ca5ee9baecee
+supersaver_ca,Supersaver,Canada,en,3417ea61-1d4b-4ec6-aa79-ca5ee9baecee
+flightnetwork_cl_es,Flight Network,Chile,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_cl,Gotogate,Chile,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_cl,Mytrip,Chile,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_cn,Flight Network,China,zh,49732b8f-30d7-4197-89b4-d8caba47f91f
+fly_cn,Fly,China,zh,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_cn,Gotogate,China,zh,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_cn,Mytrip,China,zh,49732b8f-30d7-4197-89b4-d8caba47f91f
+nokgo_cn_cny,Nokgo,China,zh,49732b8f-30d7-4197-89b4-d8caba47f91f
+nokgo_cn_thb,Nokgo,China,zh,49732b8f-30d7-4197-89b4-d8caba47f91f
+nokgo_cn_usd,Nokgo,China,zh,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_co_es,Flight Network,Colombia,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_co,Gotogate,Colombia,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_co,Mytrip,Colombia,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_hr,Flight Network,Croatia,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+gotogate_hr,Gotogate,Croatia,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+mytrip_hr,Mytrip,Croatia,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+flightnetwork_cy,Flight Network,Cyprus,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+gotogate_cy,Gotogate,Cyprus,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+mytrip_cy,Mytrip,Cyprus,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+mytrip_cy_gr,Mytrip,Cyprus,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+pamediakopes_cy_en,Pamediakopes,Cyprus,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+pamediakopes_cy_gr,Pamediakopes,Cyprus,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+flightnetwork_cz,Flight Network,Czech Republic,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_cz,Gotogate,Czech Republic,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_cz,Mytrip,Czech Republic,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+budjet_dk,Budjet,Denmark,en,28bf9adf-c3fe-4009-9678-7a2eeca09f13
+businessclass_dk,BusinessClass.com,Denmark,en,28bf9adf-c3fe-4009-9678-7a2eeca09f13
+flightnetwork_dk,Flight Network,Denmark,en,28bf9adf-c3fe-4009-9678-7a2eeca09f13
+flybillet_dk,Flybillet,Denmark,en,28bf9adf-c3fe-4009-9678-7a2eeca09f13
+goleif_dk,Goleif,Denmark,en,28bf9adf-c3fe-4009-9678-7a2eeca09f13
+gotogate_dk,Gotogate,Denmark,en,28bf9adf-c3fe-4009-9678-7a2eeca09f13
+mytrip_dk,Mytrip,Denmark,en,28bf9adf-c3fe-4009-9678-7a2eeca09f13
+radissonhotels_dk,Radisson Hotels,Denmark,en,28bf9adf-c3fe-4009-9678-7a2eeca09f13
+seat24_dk,Seat24,Denmark,en,28bf9adf-c3fe-4009-9678-7a2eeca09f13
+supersaver_dk,Supersaver,Denmark,en,28bf9adf-c3fe-4009-9678-7a2eeca09f13
+travelstart_dk,Travelstart,Denmark,en,28bf9adf-c3fe-4009-9678-7a2eeca09f13
+flightnetwork_ec,Flight Network,Ecuador,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_ec,Gotogate,Ecuador,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_ec,Mytrip,Ecuador,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_eg,Flight Network,Egypt,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_eg_en,Flight Network,Egypt,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_eg_ar,Gotogate,Egypt,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_eg_en,Gotogate,Egypt,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_eg,Mytrip,Egypt,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_eg_en,Mytrip,Egypt,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+trip_eg,Trip,Egypt,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+trip_eg_en,Trip,Egypt,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_ee,Flight Network,Estonia,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+gotogate_ee,Gotogate,Estonia,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+mytrip_ee,Mytrip,Estonia,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+budjet_fi,Budjet,Finland,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+flightnetwork_fi,Flight Network,Finland,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+gotogate_fi,Gotogate,Finland,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+mytrip_fi,Mytrip,Finland,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+radissonhotels_fi,Radisson Hotels,Finland,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+seat24_fi,Seat24,Finland,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+supersaver_fi,Supersaver,Finland,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+travelpartner_fi,Travelpartner,Finland,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+travelstart_fi,Travelstart,Finland,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+airtickets24_fr,Gotogate,France,fr,b7716aaa-c795-4c8d-9f5d-0c772989febc
+flightnetwork_fr,Flight Network,France,fr,b7716aaa-c795-4c8d-9f5d-0c772989febc
+gotogate_fr,Gotogate,France,fr,b7716aaa-c795-4c8d-9f5d-0c772989febc
+mytrip_fr,Mytrip,France,fr,b7716aaa-c795-4c8d-9f5d-0c772989febc
+radissonhotels_fr,Radisson Hotels,France,fr,b7716aaa-c795-4c8d-9f5d-0c772989febc
+supersaver_fr,Supersaver,France,fr,b7716aaa-c795-4c8d-9f5d-0c772989febc
+flightnetwork_de,Flight Network,Germany,de,b7716aaa-c795-4c8d-9f5d-0c772989febc
+flyfar_de,Flyfar,Germany,de,b7716aaa-c795-4c8d-9f5d-0c772989febc
+gotogate_de,Gotogate,Germany,de,b7716aaa-c795-4c8d-9f5d-0c772989febc
+mytrip_de,Mytrip,Germany,de,b7716aaa-c795-4c8d-9f5d-0c772989febc
+radissonhotels_de,Radisson Hotels,Germany,de,b7716aaa-c795-4c8d-9f5d-0c772989febc
+seat24_de,Seat24,Germany,de,b7716aaa-c795-4c8d-9f5d-0c772989febc
+travelstart_de,Travelstart,Germany,de,b7716aaa-c795-4c8d-9f5d-0c772989febc
+tui_de,Gotogate,Germany,de,b7716aaa-c795-4c8d-9f5d-0c772989febc
+fantasticgreece_gr,Fantasticgreece,Greece,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+flightnetwork_gr,Flight Network,Greece,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+gotogate_gr,Gotogate,Greece,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+mytrip_gr,Mytrip,Greece,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+pamediakopes_gr,Pamediakopes,Greece,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+flightnetwork_hk,Flight Network,Hong Kong,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_hk,Gotogate,Hong Kong,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_hk,Mytrip,Hong Kong,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_hu,Flight Network,Hungary,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_hu,Gotogate,Hungary,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_hu,Mytrip,Hungary,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_is,Flight Network,Iceland,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+gotogate_is,Gotogate,Iceland,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+mytrip_is,Mytrip,Iceland,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+businessclass_in,BusinessClass.com,India,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_in_en,Flight Network,India,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+fly_in,Fly,India,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_in,Gotogate,India,en,7cedbff2-e946-4039-912b-91f0d16e2514
+radissonhotels_in,Radisson Hotels,India,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_id,Gotogate,Indonesia,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_id,Mytrip,Indonesia,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_ir,Gotogate,Iran,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+mytrip_ir,Mytrip,Iran,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+adr_ie,Flyandvisitrome.com,Ireland,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+businessclass_ie,BusinessClass.com,Ireland,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+flightnetwork_ie,Flight Network,Ireland,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+gotogate_ie,Gotogate,Ireland,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+mytrip_ie,Mytrip,Ireland,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+supersaver_ie,Supersaver,Ireland,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+flightnetwork_il,Flight Network,Israel,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_il,Gotogate,Israel,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_il,Mytrip,Israel,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+adr_it,Flyandvisitrome.com,Italy,it,b7716aaa-c795-4c8d-9f5d-0c772989febc
+flightnetwork_it,Flight Network,Italy,it,b7716aaa-c795-4c8d-9f5d-0c772989febc
+gotogate_it,Gotogate,Italy,it,b7716aaa-c795-4c8d-9f5d-0c772989febc
+mytrip_it,Mytrip,Italy,it,b7716aaa-c795-4c8d-9f5d-0c772989febc
+supersaver_it,Supersaver,Italy,it,b7716aaa-c795-4c8d-9f5d-0c772989febc
+flightnetwork_jp,Flight Network,Japan,ja,869c2bd9-a1a1-437e-ad18-424cb7335ea1
+gotogate_jp,Gotogate,Japan,ja,869c2bd9-a1a1-437e-ad18-424cb7335ea1
+mytrip_jp,Mytrip,Japan,ja,869c2bd9-a1a1-437e-ad18-424cb7335ea1
+supersaver_jp,Supersaver,Japan,ja,869c2bd9-a1a1-437e-ad18-424cb7335ea1
+flightnetwork_jo,Flight Network,Jordan,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_jo_en,Flight Network,Jordan,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_jo_ar,Gotogate,Jordan,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_jo_en,Gotogate,Jordan,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_jo,Mytrip,Jordan,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_jo_en,Mytrip,Jordan,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+trip_jo,Trip,Jordan,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+trip_jo_en,Trip,Jordan,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_kz,Flight Network,Kazakhstan,ru,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_kz,Gotogate,Kazakhstan,ru,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_kz,Mytrip,Kazakhstan,ru,49732b8f-30d7-4197-89b4-d8caba47f91f
+trip_kz,Trip,Kazakhstan,ru,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_kr,Gotogate,Korea,en,3a003433-1263-4c80-babb-f2f959367328
+mytrip_kr,Mytrip,Korea,en,3a003433-1263-4c80-babb-f2f959367328
+flightnetwork_kw,Flight Network,Kuwait,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_kw_en,Flight Network,Kuwait,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_kw_ar,Gotogate,Kuwait,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_kw_en,Gotogate,Kuwait,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_kw,Mytrip,Kuwait,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_kw_en,Mytrip,Kuwait,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+trip_kw,Trip,Kuwait,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+trip_kw_en,Trip,Kuwait,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+businessclass_la_eur,BusinessClass.com,Latam Meta markets,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+businessclass_la_usd,BusinessClass.com,Latam Meta markets,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_la,Mytrip,Latam Meta markets,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_la_en,Mytrip,Latam Meta markets,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_lu,Flight Network,Luxemburg,fr,b7716aaa-c795-4c8d-9f5d-0c772989febc
+gotogate_lu,Gotogate,Luxemburg,fr,b7716aaa-c795-4c8d-9f5d-0c772989febc
+mytrip_lu,Mytrip,Luxemburg,fr,b7716aaa-c795-4c8d-9f5d-0c772989febc
+flightnetwork_mo,Flight Network,Macao,zh,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_mo,Gotogate,Macao,zh,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_mo,Mytrip,Macao,zh,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_my_en,Flight Network,Malaysia,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_my,Gotogate,Malaysia,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_my,Mytrip,Malaysia,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_mt,Flight Network,Malta,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+gotogate_mt,Gotogate,Malta,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+mytrip_mt,Mytrip,Malta,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+flightnetwork_mx_es,Flight Network,Mexico,es,0bcac128-9fca-4736-8716-db94d7eadad5
+gotogate_mx,Gotogate,Mexico,es,0bcac128-9fca-4736-8716-db94d7eadad5
+mytrip_mx,Mytrip,Mexico,es,0bcac128-9fca-4736-8716-db94d7eadad5
+flightnetwork_nl,Flight Network,Netherlands,en,827ebd05-3f66-4ffa-bd9b-63e8fb3c3390
+gotogate_nl,Gotogate,Netherlands,en,827ebd05-3f66-4ffa-bd9b-63e8fb3c3390
+mytrip_nl,Mytrip,Netherlands,en,827ebd05-3f66-4ffa-bd9b-63e8fb3c3390
+radissonhotels_nl,Radisson Hotels,Netherlands,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+supersaver_nl,Supersaver,Netherlands,en,827ebd05-3f66-4ffa-bd9b-63e8fb3c3390
+flightnetwork_nz,Flight Network,New Zealand,en,042eb72c-a32a-4acb-9fe7-8f332a89a8ab
+gotogate_nz,Gotogate,New Zealand,en,042eb72c-a32a-4acb-9fe7-8f332a89a8ab
+mytrip_nz,Mytrip,New Zealand,en,042eb72c-a32a-4acb-9fe7-8f332a89a8ab
+flightnetwork_ng,Flight Network,Nigeria,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_ng,Gotogate,Nigeria,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_ng,Mytrip,Nigeria,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+budjet_no,Budjet,Norway,en,7155d471-ff6e-4829-9dcd-f14e0ab09c8c
+businessclass_no,BusinessClass.com,Norway,en,7155d471-ff6e-4829-9dcd-f14e0ab09c8c
+flightnetwork_no,Flight Network,Norway,en,7155d471-ff6e-4829-9dcd-f14e0ab09c8c
+gotogate_no,Gotogate,Norway,en,7155d471-ff6e-4829-9dcd-f14e0ab09c8c
+mytrip_no,Mytrip,Norway,en,7155d471-ff6e-4829-9dcd-f14e0ab09c8c
+radissonhotels_no,Radisson Hotels,Norway,en,7155d471-ff6e-4829-9dcd-f14e0ab09c8c
+seat24_no,Seat24,Norway,en,7155d471-ff6e-4829-9dcd-f14e0ab09c8c
+supersaver_no,Supersaver,Norway,en,7155d471-ff6e-4829-9dcd-f14e0ab09c8c
+travelpartner_no,Travelpartner,Norway,en,7155d471-ff6e-4829-9dcd-f14e0ab09c8c
+travelstart_no,Travelstart,Norway,en,7155d471-ff6e-4829-9dcd-f14e0ab09c8c
+flightnetwork_om,Flight Network,Oman,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_om_en,Flight Network,Oman,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_om_ar,Gotogate,Oman,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_om_en,Gotogate,Oman,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_om,Mytrip,Oman,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_om_en,Mytrip,Oman,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+trip_om,Trip,Oman,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+trip_om_en,Trip,Oman,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_py,Flight Network,Paraguay,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_py,Gotogate,Paraguay,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_py,Mytrip,Paraguay,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_pe_es,Flight Network,Peru,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_pe,Gotogate,Peru,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_pe,Mytrip,Peru,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_ph,Flight Network,Philippines,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_ph,Gotogate,Philippines,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_ph,Mytrip,Philippines,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_pl,Flight Network,Poland,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_pl,Gotogate,Poland,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_pl,Mytrip,Poland,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+radissonhotels_pl,Radisson Hotels,Poland,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+supersaver_pl,Supersaver,Poland,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_pt,Flight Network,Portugal,pt,b7716aaa-c795-4c8d-9f5d-0c772989febc
+gotogate_pt,Gotogate,Portugal,pt,b7716aaa-c795-4c8d-9f5d-0c772989febc
+mytrip_pt,Mytrip,Portugal,pt,b7716aaa-c795-4c8d-9f5d-0c772989febc
+flightnetwork_qa,Flight Network,Qatar,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_qa_en,Flight Network,Qatar,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_qa_ar,Gotogate,Qatar,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_qa_en,Gotogate,Qatar,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_qa,Mytrip,Qatar,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_qa_en,Mytrip,Qatar,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+trip_qa,Trip,Qatar,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+trip_qa_en,Trip,Qatar,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+avion_ro,Avion,Romania,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+flightnetwork_ro,Flight Network,Romania,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+gotogate_ro,Gotogate,Romania,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+mytrip_ro,Mytrip,Romania,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+flightnetwork_sa,Flight Network,Saudi Arabia,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_sa_en,Flight Network,Saudi Arabia,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_sa,Gotogate,Saudi Arabia,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_sa_ar,Gotogate,Saudi Arabia,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_sa,Mytrip,Saudi Arabia,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_sa_en,Mytrip,Saudi Arabia,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+trip_sa,Trip,Saudi Arabia,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+trip_sa_en,Trip,Saudi Arabia,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_rs,Flight Network,Serbia,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+gotogate_rs,Gotogate,Serbia,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+mytrip_rs,Mytrip,Serbia,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+flightnetwork_sg_en,Flight Network,Singapore,en,5aa90a8c-e0c3-48dc-9361-fce15ae6f29a
+gotogate_sg,Gotogate,Singapore,en,5aa90a8c-e0c3-48dc-9361-fce15ae6f29a
+mytrip_sg,Mytrip,Singapore,en,5aa90a8c-e0c3-48dc-9361-fce15ae6f29a
+flightnetwork_sk,Flight Network,Slovak Republic,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+gotogate_sk,Gotogate,Slovak Republic,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+mytrip_sk,Mytrip,Slovak Republic,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+businessclass_en_eur,BusinessClass.com,Smaller Meta markets,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+businessclass_en_usd,BusinessClass.com,Smaller Meta markets,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_en,Flight Network,Smaller Meta markets,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_en_en,Flight Network,Smaller Meta markets,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_en,Gotogate,Smaller Meta markets,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_en_en,Gotogate,Smaller Meta markets,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_en,Mytrip,Smaller Meta markets,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_en_en,Mytrip,Smaller Meta markets,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+nokgo_en_cny,Nokgo,Smaller Meta markets,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+nokgo_en_thb,Nokgo,Smaller Meta markets,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+nokgo_en_usd,Nokgo,Smaller Meta markets,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+radissonhotels_en_eur,Radisson Hotels,Smaller Meta markets,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+radissonhotels_en_usd,Radisson Hotels,Smaller Meta markets,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_za_en,Flight Network,South Africa,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_za,Gotogate,South Africa,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_za,Mytrip,South Africa,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+supersaver_za,Supersavertravel,South Africa,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_es,Flight Network,Spain,es,b7716aaa-c795-4c8d-9f5d-0c772989febc
+gotogate_es,Gotogate,Spain,es,b7716aaa-c795-4c8d-9f5d-0c772989febc
+mytrip_es,Mytrip,Spain,es,b7716aaa-c795-4c8d-9f5d-0c772989febc
+radissonhotels_es,Radisson Hotels,Spain,es,b7716aaa-c795-4c8d-9f5d-0c772989febc
+supersaver_es,Supersaver,Spain,es,b7716aaa-c795-4c8d-9f5d-0c772989febc
+budjet_se,Budjet,Sweden,en,3d83a623-09c6-4f39-b79a-43f3ac88dc48
+businessclass_se,BusinessClass.com,Sweden,en,3d83a623-09c6-4f39-b79a-43f3ac88dc48
+flightnetwork_se,Flight Network,Sweden,en,3d83a623-09c6-4f39-b79a-43f3ac88dc48
+flygvaruhuset_se,Flygvaruhuset,Sweden,en,3d83a623-09c6-4f39-b79a-43f3ac88dc48
+gotogate_se,Gotogate,Sweden,en,3d83a623-09c6-4f39-b79a-43f3ac88dc48
+mytrip_se,Mytrip,Sweden,en,3d83a623-09c6-4f39-b79a-43f3ac88dc48
+radissonhotels_se,Radisson Hotels,Sweden,en,3d83a623-09c6-4f39-b79a-43f3ac88dc48
+seat24_se,Seat24,Sweden,en,3d83a623-09c6-4f39-b79a-43f3ac88dc48
+supersaver_se,Supersavertravel,Sweden,en,3d83a623-09c6-4f39-b79a-43f3ac88dc48
+travelfinder_se,Travelfinder,Sweden,en,3d83a623-09c6-4f39-b79a-43f3ac88dc48
+travelpartner_se,Travelpartner,Sweden,en,3d83a623-09c6-4f39-b79a-43f3ac88dc48
+travelstart_se,Travelstart,Sweden,en,3d83a623-09c6-4f39-b79a-43f3ac88dc48
+flightnetwork_ch,Flight Network,Switzerland,en,acaae3a8-0624-4939-9f0a-35f123e325a9
+gotogate_ch,Gotogate,Switzerland,en,acaae3a8-0624-4939-9f0a-35f123e325a9
+mytrip_ch,Mytrip,Switzerland,en,acaae3a8-0624-4939-9f0a-35f123e325a9
+radissonhotels_ch,Radisson Hotels,Switzerland,en,acaae3a8-0624-4939-9f0a-35f123e325a9
+supersaver_ch,Supersaver,Switzerland,en,acaae3a8-0624-4939-9f0a-35f123e325a9
+flightnetwork_tw,Flight Network,Taiwan,zh,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_tw,Gotogate,Taiwan,zh,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_tw_en,Gotogate,Taiwan,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_tw,Mytrip,Taiwan,zh,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_tw_en,Mytrip,Taiwan,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_th,Flight Network,thland,th,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_th,Gotogate,thland,th,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_th,Mytrip,thland,th,49732b8f-30d7-4197-89b4-d8caba47f91f
+nokgo_th_cny,Nokgo,thland,th,49732b8f-30d7-4197-89b4-d8caba47f91f
+nokgo_th_thb,Nokgo,thland,th,49732b8f-30d7-4197-89b4-d8caba47f91f
+nokgo_th_usd,Nokgo,thland,th,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_tr,Flight Network,Turkey,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_tr,Gotogate,Turkey,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_tr,Mytrip,Turkey,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_ua,Flight Network,Ukraine,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+flightnetwork_ua_ru,Flight Network,Ukraine,ru,b7716aaa-c795-4c8d-9f5d-0c772989febc
+gotogate_ua,Gotogate,Ukraine,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+gotogate_ua_ru,Gotogate,Ukraine,ru,b7716aaa-c795-4c8d-9f5d-0c772989febc
+mytrip_ua,Mytrip,Ukraine,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+mytrip_ua_ru,Mytrip,Ukraine,ru,b7716aaa-c795-4c8d-9f5d-0c772989febc
+trip_ua,Trip,Ukraine,en,b7716aaa-c795-4c8d-9f5d-0c772989febc
+trip_ua_ru,Trip,Ukraine,ru,b7716aaa-c795-4c8d-9f5d-0c772989febc
+flightnetwork_ae_en,Flight Network,United Arab Emirates,en,f3e65b87-3432-467a-918e-bd7e8c14182b
+gotogate_ae,Gotogate,United Arab Emirates,en,f3e65b87-3432-467a-918e-bd7e8c14182b
+gotogate_ae_ar,Gotogate,United Arab Emirates,en,f3e65b87-3432-467a-918e-bd7e8c14182b
+mytrip_ae,Mytrip,United Arab Emirates,en,f3e65b87-3432-467a-918e-bd7e8c14182b
+mytrip_ae_en,Mytrip,United Arab Emirates,en,f3e65b87-3432-467a-918e-bd7e8c14182b
+radissonhotels_ae,Radisson Hotels,United Arab Emirates,en,f3e65b87-3432-467a-918e-bd7e8c14182b
+supersaver_ae,Supersavertravel,United Arab Emirates,en,f3e65b87-3432-467a-918e-bd7e8c14182b
+trip_ae,Trip,United Arab Emirates,en,f3e65b87-3432-467a-918e-bd7e8c14182b
+trip_ae_en,Trip,United Arab Emirates,en,f3e65b87-3432-467a-918e-bd7e8c14182b
+businessclass_uk,BusinessClass.com,United Kingdom,en,89889ff6-3be7-4a1f-a2cb-509812fbb7bc
+flightnetwork_uk,Flight Network,United Kingdom,en,89889ff6-3be7-4a1f-a2cb-509812fbb7bc
+gotogate_uk,Gotogate,United Kingdom,en,89889ff6-3be7-4a1f-a2cb-509812fbb7bc
+mytrip_uk,Mytrip,United Kingdom,en,89889ff6-3be7-4a1f-a2cb-509812fbb7bc
+radissonhotels_uk,Radisson Hotels,United Kingdom,en,89889ff6-3be7-4a1f-a2cb-509812fbb7bc
+supersaver_uk,Supersavertravel,United Kingdom,en,89889ff6-3be7-4a1f-a2cb-509812fbb7bc
+test_uk,Gotogate,United Kingdom,en,89889ff6-3be7-4a1f-a2cb-509812fbb7bc
+flightnetwork_uy,Flight Network,Uruguay,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_uy,Gotogate,Uruguay,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_uy,Mytrip,Uruguay,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+businessclass_us,BusinessClass.com,USA,en,e4e923a6-5c85-4022-8ae8-dea2966257a8
+flightnetwork_us_en,Flight Network,USA,en,e4e923a6-5c85-4022-8ae8-dea2966257a8
+flightnetwork_us_es,Flight Network,USA,es,e4e923a6-5c85-4022-8ae8-dea2966257a8
+flyfar_us_en,Flyfar,USA,en,e4e923a6-5c85-4022-8ae8-dea2966257a8
+flyfar_us_es,Flyfar,USA,es,e4e923a6-5c85-4022-8ae8-dea2966257a8
+gotogate_us,Gotogate,USA,en,e4e923a6-5c85-4022-8ae8-dea2966257a8
+mytrip_us,Mytrip,USA,en,e4e923a6-5c85-4022-8ae8-dea2966257a8
+radissonhotels_us,Radisson Hotels,USA,en,e4e923a6-5c85-4022-8ae8-dea2966257a8
+supersaver_us,Supersaver,USA,en,e4e923a6-5c85-4022-8ae8-dea2966257a8
+travelfinder_us,Tripstack,USA,en,e4e923a6-5c85-4022-8ae8-dea2966257a8
+flightnetwork_uz,Flight Network,Uzbekistan,ru,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_uz,Gotogate,Uzbekistan,ru,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_uz,Mytrip,Uzbekistan,ru,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_uz_ru,Mytrip,Uzbekistan,ru,49732b8f-30d7-4197-89b4-d8caba47f91f
+trip_uz_ru,Trip,Uzbekistan,ru,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_ve,Flight Network,Venezuela,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_ve,Gotogate,Venezuela,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_ve,Mytrip,Venezuela,es,49732b8f-30d7-4197-89b4-d8caba47f91f
+flightnetwork_vn,Flight Network,Vietnam,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+gotogate_vn,Gotogate,Vietnam,en,49732b8f-30d7-4197-89b4-d8caba47f91f
+mytrip_vn,Mytrip,Vietnam,en,49732b8f-30d7-4197-89b4-d8caba47f91f
